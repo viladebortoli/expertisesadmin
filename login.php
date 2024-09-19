@@ -25,9 +25,6 @@
 				<div class="col-12 text-center">
 					<a href="recupera.php" class="remember-password">esqueci a senha</a>
 				</div>
-				<div class="col-8 offset-2 text-center max-img">
-					<img src="images/logo-expertise.png">
-				</div>
 			</div>
  			<?php include('foot.php');?>
 		</div>
